@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\pr6_1_iter.obj",
+            "outputs": [
+                "x64\\Debug\\pr6_1_iter.cpp.obj.dt.module.json",
+                "x64\\Debug\\pr6_1_iter.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
